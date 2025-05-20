@@ -26,7 +26,7 @@ I'm Alfina, an aspiring **full-stack web developer** with a background in **Comp
 C • Python • SQL • HTML • CSS • JavaScript
 
 **Frameworks & Tools:**  
-jQuery • Bootstrap • VS Code • GitHub • LaTeX
+jQuery • Bootstrap • VS Code • GitHub • LaTeX • Django • Flask
 
 **AI/ML:**  
 Machine Learning • Deep Learning • Image Processing
